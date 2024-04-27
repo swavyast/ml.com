@@ -1,0 +1,6 @@
+[submodule "ml-front-end"]
+	path = ml-front-end
+	url = https://github.com/swavyast/ml-front-end
+[submodule "ml-back-end"]
+	path = ml-back-end
+	url = https://github.com/swavyast/ml-back-end
